@@ -9,7 +9,11 @@
 
 
 
-<img width="871" height="495" alt="telco churn" src="https://github.com/user-attachments/assets/88bf41d6-df54-4c62-99e7-28bbbf468ecf" />
+<img width="1347" height="762" alt="1" src="https://github.com/user-attachments/assets/dc2b57a0-d8d3-4ad2-9b06-650ddb641c99" />  <img width="1350" height="760" alt="2" src="https://github.com/user-attachments/assets/fe1218cc-7763-4eb0-8537-2e4dafd62a40" />
+
+<img width="1350" height="764" alt="3" src="https://github.com/user-attachments/assets/0ea05716-086f-46f0-975e-fe9443d3a3ef" />  <img width="1351" height="761" alt="4" src="https://github.com/user-attachments/assets/4bab76b5-814a-4b48-a2d8-3c31b23f211c" />
+
+
 
 
 

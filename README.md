@@ -1,10 +1,10 @@
-# Project Title: Youth-Basketball-Program-Excel Project 
+# Project Title: Customer-Churn-Revenue-Impact-Analysis 
 
 
 
 
 ## Project Overview
-The analysis shows that August is the peak revenue month, while December and November are the lowest-performing months. The 11–15 age group drives the highest revenue contribution, and programs such as Summer Camp, AAU Teams, and General/Non-Specific training attract the most customers. Overall, the program demonstrates strong financial performance, high customer engagement, and clear seasonal trends.
+**This analysis evaluates customer churn behavior and its direct financial impact across contracts, services, customer tenure, and support experience. The objective is to identify key churn drivers, revenue leakage, and high-value customers at risk, and to highlight actionable retention opportunities.**
 
 
 
@@ -14,67 +14,98 @@ The analysis shows that August is the peak revenue month, while December and Nov
 
 
 
-
-## Objectives
-  **This report examines the performance of the Youth Basketball Program, with the aim of understanding revenue patterns, customer demographics, program demand, and payment behavior.**
-
   
 **Key metrics include:**
 
-*Total Revenue: $5.0M
+Total Customers: 7,043
 
-*Total Customers: 11,275
+Churn Rate: 26.5%
 
-*Programs Offered: 27	
+Customers Churned: 1,869
 
-*Payment Completion: 93% paid; $358K outstanding
+Customers at Risk: 5,680
 
-*Top Revenue Cities: Greenwich, Stamford, Riverside, Darien
+Total Revenue: $16.1M
+
+Revenue Lost to Churn: $139K per month
+
+Revenue at Risk: $218K per month
+
+High-Value Customers at Risk: 2,446
 
 
 
-
-
-
-## Reports
-
-- **Methodology**: 
-
-The analysis was conducted using Microsoft Excel, primarily leveraging Pivot Tables to summarize and organize data. Pivot Charts, slicers, and conditional formatting were used to visualize key trends and reveal patterns.
-- **Data Analysis**:
+- **Key Findings**:
   
-**1. Seasonal Revenue Pattern**
-   
-  * Peak Month: August, driven by high enrollment in Summer Camps and competitive programs.
+**1. Contract Type Is the Strongest Churn Driver**
 
-  * Lowest Months: December, followed by November, due to holiday periods and off-season inactivity.
+Month-to-month customers account for:
 
-**2. Customer Demographics**
-   
-  * The 11–15 age group is the core revenue driver, contributing $3.2M.
+42.7% churn rate
 
-  * Other age groups contribute modestly, with 20+ years generating the least revenue.
+$121K/month revenue loss
 
-**3. Top-Performing Programs**
- 
-  * Summer Camp, AAU Teams, and General/Non-Specific programs attract the highest customer counts.
+Two-year contracts show the lowest churn (2.8%) and minimal revenue loss.
 
-  * Smaller programs include Elite MS Camps and Girls Summer Camps.
+**Insight:** Short-term contracts drive both customer attrition and financial exposure.
 
-**4. Geographic Revenue Concentration**
-   
-  * Top revenue cities include Greenwich ($912K), Stamford ($853K), Riverside, and Darien.
-  * These areas represent high-income, high-participation communities.
+**2. Early Tenure Customers Are Highly Vulnerable**
 
-**5. High-Value Families**
-   
-  * The Cartiera family is both the highest-paying and the largest participating household (132 customers).
-  * Several other families contribute strong recurring revenue.
+Customers in their first 0–11 months show 48.3% churn
+
+Churn steadily declines with tenure, reaching 9.6% after 48 months
+
+**Insight:** Churn is an early-lifecycle problem, not a long-term loyalty issue.
+
+**3. Fiber Optic Customers Represent the Largest Revenue Risk**
+
+Fiber Optic contributes:
+
+41.9% churn
+
+$114K/month in lost revenue
+
+Despite being a premium service, Fiber users exhibit high dissatisfaction.
+
+**Insight:** High-paying customers churn when service expectations are unmet.
+
+**4. Support Experience Is a Critical Revenue Indicator**
+
+Customers with 5+ support tickets have 54.1% churn
+
+High ticket volume combined with high monthly charges correlates strongly with churn in the revenue risk analysis.
+
+**Insight:** Poor service resolution directly converts into revenue loss.
+
+**5. Payment Behavior and Household Structure Influence Retention**
+
+Electronic check users show the highest churn (45.3%)
+
+Customers with partners or dependents churn significantly less
+
+**Insight:** Automated payments and family-based plans improve retention.
+## Reports
+- **Business Impact**: 
+
+*Total monthly exposure (lost + at risk) exceeds $350K
+
+*Revenue loss is concentrated among specific, identifiable segments
+
+*Even long-term customers are vulnerable when service quality declines.
+
+## Recommendations
+-Convert high-value month-to-month customers to long-term contracts
+
+-Strengthen onboarding and engagement in the first 12 months
+
+-Prioritize service quality for Fiber Optic customers
+
+-Trigger proactive retention actions for customers with ≥3 support tickets
+
+-Incentivize auto-pay and bundled household plans
 
 ## Conclusion  
-These results suggest that the program has a solid financial base, strong demand among early-to-mid teens, and high participation in summer-driven activities. 
-## Recommendations
-Based on the findings, it is recommended to expand high-demand programs, introduce off-season training to reduce revenue dips, focus marketing on top-paying cities, and develop loyalty initiatives for high-value families.
+Customer churn is driven less by demographics and more by contract structure, service experience, and early customer lifecycle management. Targeted interventions focused on high-value, high-risk customers can significantly reduce churn and protect recurring revenue.
 
 
 

@@ -9,11 +9,22 @@
 
 
 
-<img width="1299" height="679" alt="basketball program" src="https://github.com/user-attachments/assets/861a54f5-0f03-4b82-a182-7974b6d52cea" />
+<img width="871" height="495" alt="telco churn" src="https://github.com/user-attachments/assets/88bf41d6-df54-4c62-99e7-28bbbf468ecf" />
 
 
 
 
+## Business Problem
+
+Customer churn represents a major revenue risk in the telecom industry. While churn rates are often tracked, organizations struggle to:
+
+*Understand why customers leave
+
+*Identify which customers matter most financially
+
+*Act early to prevent churn before revenue is lost
+
+This dashboard addresses these challenges by combining customer behavior, service usage, support experience, and revenue metrics into a single analytical view.
   
 **Key metrics include:**
 
@@ -93,6 +104,20 @@ High-Value Customers at Risk: **2,446**
 
 **Insight:** Automated payments and family-based plans improve retention.
 
+**6. Add-On Services – Retention Boosters**
+
+Customers without value-added services show higher churn:
+
+Online Security: 15% churn
+
+Tech Support: 15%
+
+Device Protection: 22.5%
+
+Streaming Services: ~30%
+
+**Insight:** Support & protection services reduce churn, while entertainment alone does not.
+
 
 ## Reports
 - **Business Impact**: 
@@ -118,11 +143,38 @@ High-Value Customers at Risk: **2,446**
 Customer churn is driven less by demographics and more by contract structure, service experience, and early customer lifecycle management. Targeted interventions focused on high-value, high-risk customers can significantly reduce churn and protect recurring revenue.
 
 
+## Analytical Approach
+
+-Built using Power BI
+
+-Applied DAX measures to calculate churn rates, retention, revenue loss, and risk
+
+-Used segmentation and conditional formatting to highlight high-impact patterns
+
+-Designed intuitive navigation and KPI-driven layouts for executive consumption
+
+
 
 
 ## Author - Usman Siyi
 
-This project showcases MS Excel skills essential for analysing data. looking For someone with skills on Excel and data analysis , connect with me through the following channels:
+This project demonstrates the ability to move beyond descriptive analytics and deliver insight-driven storytelling that connects customer behavior directly to business outcomes. It showcases skills in data modeling, visualization design, stakeholder communication, and strategic thinking.
+
+**Tools & Skills**
+
+Power BI
+
+DAX
+
+Data Modeling
+
+Customer Analytics
+
+Revenue Impact Analysis
+
+Dashboard Design & Storytelling.
+
+connect with me through the following channels:
 
 - **Email**: (nuraensiyi@gmail.com)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/UsmanSiyi)

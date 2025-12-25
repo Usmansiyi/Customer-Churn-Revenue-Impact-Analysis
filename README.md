@@ -17,21 +17,21 @@
   
 **Key metrics include:**
 
-Total Customers: 7,043
+Total Customers: **7,043**
 
-Churn Rate: 26.5%
+Churn Rate: **26.5%**
 
-Customers Churned: 1,869
+Customers Churned: **1,869**
 
-Customers at Risk: 5,680
+Customers at Risk: **5,680**
 
-Total Revenue: $16.1M
+Total Revenue: **$16.1M**
 
-Revenue Lost to Churn: $139K per month
+Revenue Lost to Churn: **$139K per month**
 
-Revenue at Risk: $218K per month
+Revenue at Risk: **$218K per month**
 
-High-Value Customers at Risk: 2,446
+High-Value Customers at Risk: **2,446**
 
 
 
@@ -39,51 +39,61 @@ High-Value Customers at Risk: 2,446
   
 **1. Contract Type Is the Strongest Churn Driver**
 
-Month-to-month customers account for:
+**Month-to-month customers account for:
 
-42.7% churn rate
+**42.7% churn rate
 
-$121K/month revenue loss
+**$121K/month revenue loss
 
-Two-year contracts show the lowest churn (2.8%) and minimal revenue loss.
+**Two-year contracts show the lowest churn (2.8%) and minimal revenue loss.
 
 **Insight:** Short-term contracts drive both customer attrition and financial exposure.
 
+
+
 **2. Early Tenure Customers Are Highly Vulnerable**
 
-Customers in their first 0–11 months show 48.3% churn
+**Customers in their first 0–11 months show 48.3% churn
 
-Churn steadily declines with tenure, reaching 9.6% after 48 months
+**Churn steadily declines with tenure, reaching 9.6% after 48 months
 
 **Insight:** Churn is an early-lifecycle problem, not a long-term loyalty issue.
 
+
+
 **3. Fiber Optic Customers Represent the Largest Revenue Risk**
 
-Fiber Optic contributes:
+**Fiber Optic contributes:
 
-41.9% churn
+**41.9% churn
 
-$114K/month in lost revenue
+**$114K/month in lost revenue
 
-Despite being a premium service, Fiber users exhibit high dissatisfaction.
+  **Despite being a premium service, Fiber users exhibit high dissatisfaction.
 
 **Insight:** High-paying customers churn when service expectations are unmet.
 
+
+
 **4. Support Experience Is a Critical Revenue Indicator**
 
-Customers with 5+ support tickets have 54.1% churn
+**Customers with 5+ support tickets have 54.1% churn
 
-High ticket volume combined with high monthly charges correlates strongly with churn in the revenue risk analysis.
+**High ticket volume combined with high monthly charges correlates strongly with churn in the revenue risk analysis.
 
 **Insight:** Poor service resolution directly converts into revenue loss.
 
+
+
 **5. Payment Behavior and Household Structure Influence Retention**
 
-Electronic check users show the highest churn (45.3%)
+**Electronic check users show the highest churn (45.3%)
 
-Customers with partners or dependents churn significantly less
+**Customers with partners or dependents churn significantly less
 
 **Insight:** Automated payments and family-based plans improve retention.
+
+
 ## Reports
 - **Business Impact**: 
 

@@ -143,6 +143,8 @@ Streaming Services: ~30%
 
 -Incentivize auto-pay and bundled household plans
 
+-Bundle Tech Support + Security with high-risk customers.
+
 ## Conclusion  
 Customer churn is driven less by demographics and more by contract structure, service experience, and early customer lifecycle management. Targeted interventions focused on high-value, high-risk customers can significantly reduce churn and protect recurring revenue.
 
